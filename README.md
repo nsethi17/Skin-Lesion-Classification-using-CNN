@@ -23,7 +23,7 @@ performance of the model in both the cases. Furthermore, we have used the segmen
 as the input for ResNet50 and compared its performance with that of CNN.
 
 # OVERVIEW
-![](modeldiag.jpg)
+![](model%20diag.jpg)
 As you can see in the above figure,the original and the segmented images are passed
 separately through the Convolutional Neural Network. The CNN consists of a convolutional layer
 followed by a pooling layer, a dropout layer (to prevent overfitting) and finally a fully connected
